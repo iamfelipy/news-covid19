@@ -1,0 +1,14 @@
+@import "./helpers.css";
+@import "./header-page.css";
+@import "./menu-navegacao.css";
+@import "./footer.css";
+
+* {
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

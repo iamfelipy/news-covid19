@@ -1,0 +1,14 @@
+@import "./card-news.css";
+
+.templates {
+    display: none;
+}
+
+.noticias-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.noticias-wrapper > a{
+    margin: 10px;
+}

@@ -1,0 +1,19 @@
+.footer-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    padding: 10px;
+}
+
+.footer-page span[class='love']{
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    background-image: url('https://southoldlibrary.org/wp-content/uploads/2017/09/heart.png');
+    background-size: 100%;
+}
+
+.footer-page span[class='love'] a{
+    color: black;
+}

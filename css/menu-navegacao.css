@@ -1,0 +1,31 @@
+.menu-navegacao {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+    background-color: #6de7c6;
+    color: white;
+    font-weight: bold;
+}
+
+.menu-navegacao > div {
+    padding: 10px;
+}
+
+.menu-navegacao > div a{
+    color: white;
+}
+
+.menu-navegacao > div a[class='active']{
+    border-bottom: 2px solid white;
+}
+
+/* @media only screen and (max-width: 600px) {
+    .menu-navegacao {
+        flex-direction: column;
+    }
+} */

@@ -1,0 +1,14 @@
+@import "./card-fonte.css";
+
+.fontes-news-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.fontes-news-wrapper > a{
+    margin: 10px;
+}
+
+.templates {
+    display: none;
+}

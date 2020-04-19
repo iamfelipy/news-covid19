@@ -1,0 +1,42 @@
+.card-ancor {
+    text-decoration: none;
+}
+
+.card-ancor .card{
+    max-width: 300px;
+    max-height: 400px;
+    height: 100%;
+}
+
+.card-ancor .card .card-capa {
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 200px;
+}
+
+.card-ancor .card .card-body {
+    padding: 10px;
+}
+
+.card-ancor .card .card-body > div:not(:last-child){
+    margin-bottom: 5px;
+}
+
+.card-ancor .card .card-body .titulo{
+    font-size: 1.2em;
+    color: black;
+}
+
+.card-ancor .card .card-body .subtitulo{
+    font-size: .8em;
+    color: gray;
+}
+
+.card-ancor .card .card-body .descrisao{
+    font-size: 1em;
+    text-align: justify;
+    color: gray;
+    overflow-y: auto;
+}
+
