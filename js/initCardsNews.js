@@ -35,6 +35,13 @@ function initCardsNews(){
             url: 'https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/19/europa-ultrapassa-marca-de-100-mil-mortos-por-covid-19-aponta-universidade.ghtml',
             data: '19/04/2020',
             descricao: 'Neste domingo (19), a região de Piracicaba (SP) soma 69 casos confirmados de novo coronavírus nas cidades de Piracicaba, Limeira, São ...'     
+        },
+        {
+            capa: 'https://s2.glbimg.com/7-2-7EUinT96HNHv1Qu1hbnlrjo=/0x0:1200x1722/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/p/i/9yRAZ7QAKPkYUA1BfFHQ/arte-mortes-semana.png',
+            titulo: 'Brasil tem 2.462 mortes e 38.654 casos de coronavírus, diz ministério',
+            url: 'https://g1.globo.com/bemestar/coronavirus/noticia/2020/04/19/brasil-tem-2462-mortes-e-38654-casos-de-coronavirus-diz-ministerio.ghtml',
+            data: '19/04/2020',
+            descricao: 'Brasil tem 2.462 mortes e 38.654 casos de coronavírus, diz ministério. Balanço foi divulgado neste domingo (19) pela pasta apontou 115 óbitos a ...'     
         }
     ];
 
