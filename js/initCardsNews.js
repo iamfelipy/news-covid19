@@ -9,13 +9,6 @@ function initCardsNews(){
             descricao: 'Confira o Guia Completo sobre o novo Coronavírus. Informações atualizadas com opinião de...'     
         },
         {
-            capa: 'https://abrilsaude.files.wordpress.com/2020/03/40_spotify.png?w=232&h=232&crop=1',
-            titulo: 'O contra-ataque ao coronavírus – podcast',
-            url: 'https://saude.abril.com.br/podcast/o-contra-ataque-ao-coronavirus-podcast/',
-            data: '26/03/2020',
-            descricao: 'O contra-ataque ao coronavírus – podcast. Qual a lógica por trás de medidas como a de isolamento social ...'     
-        },
-        {
             capa: 'https://s2.glbimg.com/2jwEph8aescJxXIg5ElGuWFyUMU=/0x0:1280x853/1000x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2020/l/k/SdwdADSA2IkN3mn3EpLw/teste-rapido-corona.jpg',
             titulo: 'Pernambuco tem mais 266 casos de coronavírus e chega a 2.459 confirmações; número de mortes sobe para 216',
             url: 'https://g1.globo.com/pe/pernambuco/noticia/2020/04/19/pernambuco-tem-mais-266-casos-de-coronavirus-e-chega-a-2459-confirmacoes-numero-de-mortes-sobe-para-216.ghtml',
