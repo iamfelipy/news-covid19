@@ -1,10 +1,25 @@
-# news-covid19
-Desafio: Página de Notícias do COVID-19
+# Notícias sobre o COVID-19
 
-- Home: as notícias mencionadas;
+Este projeto é parte do meu portfólio, com foco no COVID-19. Apesar de fictícias, simula notícias precisas e atualizadas sobre a pandemia, demonstrando minhas habilidades em desenvolvimento web.
 
-- Sobre: uma página do autor (você!) falando do seu background profissional, com link para linkedin;
+## Demonstração
 
-- Contato: um formulário onde os visitantes possam te procurar (ele não precisa ser hard coded, pode usar um form pronto de ferramentas de marketing)
+https://iamfelipy.github.io/news-covid19/
 
-- Saiba Mais: curadoria de fontes de onde você tirou essas notícias, para o caso da pessoa querer navegar e descobrir outras.
+## Tecnologias Utilizadas
+
+- HTML
+- CSS
+- JavaScript
+
+## Instalação
+
+1. Clone o repositório: `git clone https://github.com/iamfelipy/news-covid19.git`
+2. Navegue até o diretório: `cd news-covid19`
+3. Abra `index.html` em seu navegador.
+
+## Funcionalidades
+
+1. Exibição de Notícias: Mostrar as notícias relacionadas ao COVID-19.
+2. Design Responsivo: O projeto deve ser otimizado para dispositivos móveis, garantindo uma experiência consistente em diferentes tamanhos de tela.
+3. Links Diretos: Fornece links diretos para as páginas específicas de cada notícia nos sites originais.
