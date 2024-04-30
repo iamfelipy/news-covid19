@@ -16,11 +16,6 @@ function initFonteNoticias() {
             midiaTitulo: 'FOLHA DE S.PAULO',
             url: 'https://www.folha.uol.com.br/'
         },
-        {
-            capa: 'https://cdn-istoe-ssl.akamaized.net/wp-content/themes/tema_istoe/assets/images/share/istoe_facebook.png',
-            midiaTitulo: 'ISTOÉ',
-            url: 'https://istoe.com.br/'
-        }
     ];
     
     const templateCard = document.querySelector('.templates .card-ancor');
