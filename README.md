@@ -2,6 +2,8 @@
 
 Este projeto é parte do meu portfólio, com foco no COVID-19. Apesar de fictícias, simula notícias precisas e atualizadas sobre a pandemia, demonstrando minhas habilidades em desenvolvimento web.
 
+![Logo](https://github.com/iamfelipy/news-covid19/blob/master/vanilla-news-covid-19-projeto.png?raw=true)
+
 ## Demonstração
 
 https://iamfelipy.github.io/news-covid19/
